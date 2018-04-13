@@ -1,2 +1,2 @@
-# python_practice
-Practicing and learning Python through online exercises.
+# Python Practice
+My personal log of python practice.
